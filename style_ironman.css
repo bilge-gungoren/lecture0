@@ -1,0 +1,47 @@
+h1 {
+  color: #f73434;
+  text-align: center;
+  font-weight: bolder;
+  font-family: cursive;
+}
+#header {
+  background-color: black;
+  width: 100%;
+  height: 90px;
+  align: center;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  border: 3px solid #f73434;
+}
+#bottom {
+  background-color: #f73434;
+  width: 100%;
+  height: 50px;
+  align: center;
+  font-family: Impact, fantasy;
+  font-weight: bolder;
+  text-align: center;
+  border: 3px solid black;
+  font-size: 36px;
+}
+#tribute {
+  color: white;
+  font-weight: lighter;
+  font-family: Arial, sans-serif;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  font-family: Arial, sans-serif;
+}
+table {
+  width: 75%;
+}
+th {
+  background-color: #ff7575;
+}
+td {
+  background-color: #ffdede;
+  font-style: italic;
+}
